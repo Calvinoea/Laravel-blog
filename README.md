@@ -1,4 +1,4 @@
-## Live Demo
+## Video Demo
 
 [Video Demo](https://youtu.be/1oBpCNTARC0).
 
